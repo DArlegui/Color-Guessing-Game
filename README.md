@@ -1,7 +1,8 @@
-```markdown
 # React Color Guessing Game
 
-Live Demo: https://color-guessing-game-ten.vercel.app/
+[Live Demo](https://darlegui-color-guessing-game.netlify.app/)
+
+## Description
 
 A color guessing game where users need to match the hex code with the displayed color. Good for practicing hex codes and color theory.
 
@@ -17,4 +18,3 @@ A color guessing game where users need to match the hex code with the displayed 
 - React
 - JavaScript
 - Tailwind CSS
-```
